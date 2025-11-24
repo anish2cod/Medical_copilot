@@ -1,0 +1,25 @@
+**Triage Note: Pt 10002**
+
+**Chief Complaint:** Shortness of breath and feeling "puffy" after missing dialysis, with a known need for surgical intervention for appendicitis.
+
+**History of Present Illness:** The patient reports missing dialysis yesterday and now presents with symptoms of shortness of breath and feeling "puffy", indicative of potential volume overload. Additionally, the patient has a known diagnosis of appendicitis requiring surgical intervention.
+
+**Vital Signs:**
+
+* Not currently available, but patient's symptoms suggest potential respiratory compromise and fluid overload.
+
+**Assessment:**
+
+1. **Urgent need for dialysis** to address fluid overload and electrolyte imbalances.
+2. **Surgical evaluation** for appendicitis, which may need to be expedited given the patient's current condition.
+3. **Respiratory status** requires close monitoring due to reported shortness of breath.
+
+**Recommendations:**
+
+1. **Immediate dialysis** to alleviate fluid overload and stabilize the patient.
+2. **Surgical consultation** to assess the urgency of the appendicitis and determine the best course of action given the patient's current condition.
+3. **Monitoring** of vital signs, particularly oxygen saturation and respiratory rate, to quickly identify any deterioration in the patient's condition.
+
+**Priority Level:** High
+
+This patient requires immediate attention to address both the urgent need for dialysis and the surgical intervention for appendicitis, while closely monitoring their respiratory status.
